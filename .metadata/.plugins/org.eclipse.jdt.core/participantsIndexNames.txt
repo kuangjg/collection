@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+E:\kuangjg\codes\github\collection\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\98270803.index
+\webDemo\src

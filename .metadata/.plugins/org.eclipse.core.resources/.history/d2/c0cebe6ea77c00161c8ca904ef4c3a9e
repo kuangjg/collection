@@ -1,0 +1,25 @@
+package main.app;
+
+public class MainApp {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String a = "hello2";
+		final String b = "hello";
+		String d = "hello";
+		String c = b + 2;
+		String e = d + 2;
+		System.out.println((a == c));
+		System.out.println((a == e));
+		
+		final String s1 = "abc";
+		final String s2 = "abc";
+		System.out.println( "s1==s2?"+s1==s2 );
+				
+
+	}
+
+}

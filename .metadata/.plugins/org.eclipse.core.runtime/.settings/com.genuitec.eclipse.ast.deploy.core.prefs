@@ -1,0 +1,14 @@
+#Thu Sep 29 22:00:32 CST 2016
+myeclipseTomcatServer.webDemo.isUptoDate=true
+myeclipseTomcatServer.webDemo.isDeployed=true
+myeclipseTomcatServer.webDemo.noFileCopy=false
+myeclipseTomcatServer.webDemo.deploymentPath=E\:\\kuangjg\\codes\\github\\collection\\.metadata\\.me_tcat\\webapps\\webDemo
+myeclipseTomcatServer.webDemo.contextRoot=/webDemo
+eclipse.preferences.version=1
+myeclipseTomcatServer.webDemo.shouldOverwrite=false
+myeclipseTomcatServer.webDemo.altContextRoot=/webDemo
+myeclipseTomcatServer.webDemo.type=WebDeployment
+myeclipseTomcatServer.webDemo.shouldBackup=false
+myeclipseTomcatServer.webDemo.IEARProjectName=
+myeclipseTomcatServer.webDemo.deployIsOverProject=false
+myeclipseTomcatServer.webDemo.isExploded=true
