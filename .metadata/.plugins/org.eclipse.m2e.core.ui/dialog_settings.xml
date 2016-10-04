@@ -21,12 +21,6 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
-	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
-		<item value="450" key="height"/>
-		<item value="480" key="width"/>
-		<item value="130" key="y"/>
-		<item value="560" key="x"/>
-	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="E:\kuangjg\codes\github\collection"/>
@@ -39,6 +33,12 @@
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="450" key="height"/>
+		<item value="480" key="width"/>
+		<item value="130" key="y"/>
+		<item value="560" key="x"/>
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="groupId">
@@ -53,6 +53,17 @@
 			<item value="[artifactId]-[version]"/>
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="webDemo"/>
+		</list>
+		<list key="artifactId">
+			<item value="webDemo"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
